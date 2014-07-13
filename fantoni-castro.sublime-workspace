@@ -1,0 +1,598 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"borde",
+				"border-right"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"form",
+				"form1"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fo",
+				"form1"
+			],
+			[
+				"onk",
+				"onkeyup	Attr"
+			],
+			[
+				"SCR",
+				"src"
+			],
+			[
+				"p",
+				"p	padding"
+			],
+			[
+				"MAR",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"st",
+				"font-style"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"bore",
+				"border-radius"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"colro",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"mr",
+				"margin"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"DIV",
+				"div"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"FO",
+				"font-family"
+			],
+			[
+				"u",
+				"ul	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 674,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 450,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"ide",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Preferences: Settings - User"
+			],
+			[
+				"inst",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ident",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"clse",
+				"Project: Close"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/cassio/www/site_proprio/index.html",
+		"/home/cassio/www/site_proprio/css/stilo.css",
+		"/home/cassio/www/aspej/htdocs/index.php",
+		"/home/cassio/www/aspej/htdocs/header.php",
+		"/home/cassio/www/aspej/htdocs/page.php",
+		"/home/cassio/www/aspej/htdocs/wp-config.php",
+		"/home/cassio/www/odebrecht/wp-content/themes/mystile/single-product/meta.php",
+		"/home/cassio/www/odebrecht/wp-content/themes/mystile/style.css",
+		"/home/cassio/www/odebrecht/wp-content/plugins/woocommerce/includes/admin/post-types/meta-boxes/views/html-product-download.php",
+		"/home/cassio/www/odebrecht/wp-includes/http.php",
+		"/home/cassio/www/odebrecht/wp-content/themes/mystile/single-product.php",
+		"/home/cassio/www/odebrecht/wp-content/themes/mystile/woocomerce/templates/single-product/meta.php",
+		"/home/cassio/www/odebrecht/wp-content/themes/mystile/woocomerce/single-product.php",
+		"/home/cassio/www/odebrecht/wp-content/themes/mystile/woocomerce/taxonomy-product_cat.php",
+		"/home/cassio/www/odebrecht/wp-content/themes/mystile/woocomerce/templates/single-product.php",
+		"/home/cassio/www/odebrecht/wp-config.php",
+		"/home/cassio/www/odebrecht/wp-activate.php",
+		"/home/cassio/www/odebrecht/wp-comments-post.php",
+		"/home/cassio/www/odebrecht/wp-content/plugins/woocommerce/templates/single-product/meta.php",
+		"/home/cassio/www/odebrecht/wp-content/themes/mystile/includes/theme-woocommerce.php",
+		"/home/cassio/www/odebrecht/wp-content/themes/mystile/woocomerce/single-product/meta.php",
+		"/home/cassio/www/odebrecht/wp-includes/class-oembed.php",
+		"/home/cassio/www/odebrecht/wp-content/plugins/woocommerce/templates/content-product_cat.php",
+		"/home/cassio/www/odebrecht/wp-content/themes/mystile/functions.php",
+		"/home/cassio/www/odebrecht/wp-content/themes/mystile/woocomerce/templates/taxonomy-product_cat.php",
+		"/home/cassio/www/odebrecht/wp-admin/css/login.min.css",
+		"/home/cassio/www/odebrecht/wp-includes/css/buttons.css",
+		"/home/cassio/www/odebrecht/wp-admin/css/login.css",
+		"/home/cassio/www/odebrecht/wp-includes/css/buttons.min.css",
+		"/home/cassio/www/odebrecht/index.php",
+		"/home/cassio/www/odebrecht/wp-login.php",
+		"/home/cassio/Desktop/indexVezo.html",
+		"/home/cassio/www/treinamento/testjs.html",
+		"/home/cassio/Downloads/to_fastdezine_odebrecht_store_data2.csv",
+		"/home/cassio/www/odebrecht/wp-content/themes/mystile/header.php",
+		"/home/cassio/www/odebrecht/wp-content/themes/mystile/css/layout.css",
+		"/home/cassio/Desktop/index.html",
+		"/home/cassio/www/treinamento/teste-js.html",
+		"/home/cassio/www/trabalho facul/cadeiras.html",
+		"/home/cassio/www/site_proprio/testjs.js",
+		"/home/cassio/www/site_proprio/teste.html",
+		"/home/cassio/www/wordpress/wp-content/themes/itek/js/app.js",
+		"/home/cassio/www/wordpress/wp-content/themes/itek/css/app.css",
+		"/home/cassio/www/wordpress/wp-content/themes/itek/inc/itek-page-showcase.php",
+		"/home/cassio/www/wordpress/wp-content/themes/itek/languages/itek.pot",
+		"/home/cassio/www/wordpress/wp-includes/SimplePie/Item.php",
+		"/home/cassio/www/wordpress/wp-admin/js/inline-edit-tax.js",
+		"/home/cassio/www/wordpress/index.php",
+		"/home/cassio/www/javascript/primeiro js/index.html",
+		"/home/cassio/www/site_proprio/stilo.css",
+		"/home/cassio/www/javascript/segundo js/js/script.js",
+		"/home/cassio/www/javascript/segundo js/index.html",
+		"/home/cassio/www/javascript/script.js",
+		"/home/cassio/www/bootstrap/index.html",
+		"/home/cassio/www/bootstrap/estilo.css",
+		"/home/cassio/www/bootstrap/css/bootstrap.css",
+		"/home/cassio/www/jquery/index.html",
+		"/home/cassio/www/trabalho facul/index.html",
+		"/home/cassio/www/trabalho facul/estilo.css",
+		"/home/cassio/www/designzzz/css/style.css",
+		"/home/cassio/www/designzzz/index.html",
+		"/home/cassio/www/designzzz/.editorconfig",
+		"/home/cassio/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/cassio/www/wirework/index.html",
+		"/home/cassio/www/wirework/css.css",
+		"/home/cassio/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/cassio/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/cassio/www/designzzz/folha_de_estilo.css",
+		"/home/cassio/www/news/composer.json",
+		"/home/cassio/www/news/app/config/app.php",
+		"/home/cassio/www/news/install.sh",
+		"/home/cassio/www/news/Vagrantfile",
+		"/home/cassio/www/news/vendor/classpreloader/classpreloader/src/ClassPreloader/Config.php",
+		"/home/cassio/www/news/vendor/doctrine/dbal/lib/Doctrine/DBAL/Schema/SchemaConfig.php",
+		"/home/cassio/www/news/vendor/swiftmailer/swiftmailer/test-suite/config.php",
+		"/home/cassio/www/news/CONTRIBUTING.md",
+		"/home/cassio/www/news/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Log/DebugLoggerInterface.php",
+		"/home/cassio/www/news/vendor/doctrine/common/tests/Doctrine/Tests/Common/Util/DebugTest.php",
+		"/home/cassio/www/news/vendor/doctrine/dbal/lib/Doctrine/DBAL/Logging/DebugStack.php",
+		"/home/cassio/www/news/vendor/doctrine/common/lib/Doctrine/Common/Util/Debug.php",
+		"/home/cassio/www/news/vendor/symfony/debug/Symfony/Component/Debug/Debug.php",
+		"/home/cassio/www/news/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/IBMDB2/DB2Exception.php",
+		"/home/cassio/www/news/app/config/database.php",
+		"/home/cassio/www/news/public/.htaccess",
+		"/home/cassio/www/news/.gitignore",
+		"/home/cassio/www/news/vendor/symfony/process/Symfony/Component/Process/Tests/ProcessInSigchildEnvironment.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"titu",
+			"conta",
+			"titulo",
+			"active",
+			".navbar-form",
+			"home",
+			"li",
+			"header",
+			"logo",
+			"event-info",
+			"next",
+			"day",
+			"month",
+			".login #backtoblog",
+			"back to promo",
+			"back to ",
+			".wp-core-ui .button-primary",
+			"wp-core-ui .button-primary",
+			"wp-core-ui .button-primary:hover",
+			".wp-core-ui p .button",
+			".login h1 a",
+			".login h1 a]",
+			".login h1 a",
+			".login h1",
+			",(*.)\\|\\{url\\}",
+			",(*.)",
+			"footer",
+			"{",
+			"logo",
+			"<img",
+			"margin: 4px;",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 674,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								345,
+								345
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								328,
+								328
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "fantoni-castro.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"wp-config",
+				"wp-config.php"
+			],
+			[
+				"config",
+				"wp-config.php"
+			],
+			[
+				"theme-woocommerce.php",
+				"wp-content/themes/mystile/includes/theme-woocommerce.php"
+			],
+			[
+				"itekapp.css",
+				"wp-content/themes/itek/css/app.css"
+			],
+			[
+				"app/config",
+				"app/config/app.php"
+			],
+			[
+				"composer.jso",
+				"composer.json"
+			],
+			[
+				".ht",
+				"public/.htaccess"
+			],
+			[
+				"install",
+				"install.sh"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/www/.projects/desingzzz.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
